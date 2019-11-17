@@ -1,9 +1,21 @@
 .footer-flex {
- display:flex;
- flex-direction: row;
- justify-content: space-between
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
 }
 
 .footer-item-flex {
-flex: 0 1 auto;
+    flex: 0 1 auto;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.card-title {
+    color: palevioletred;
+}
+
+body {
+    background-color: rgb(255, 243, 232);
 }
